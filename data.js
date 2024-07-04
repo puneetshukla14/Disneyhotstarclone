@@ -7,7 +7,7 @@ let movies = [
   },
   {
     name: "Mirzapur Season 3",
-    des: ""Mizapur 3" continues the saga of power struggles in Mirzapur, with Guddu navigating newfound authority while facing persistent threats. The series promises intense drama, intricate character arcs, and deep-seated vendettas as it explores the consequences of past actions.",
+    des: "Mizapur 3 continues the saga of power struggles in Mirzapur, with Guddu navigating newfound authority while facing persistent threats. The series promises intense drama, intricate character arcs, and deep-seated vendettas as it explores the consequences of past actions.",
     image: "assets/img/Mirzapur.jpg",
   },
   {
