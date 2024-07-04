@@ -3,7 +3,7 @@ let movies = [
   {
     name: "wanda vision",
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
-    image: "assets/img/slider 3.png",
+    image: "assets/img/Mirzapur.jpg",
   },
   {
     name: "falcon and the winter soldier",
