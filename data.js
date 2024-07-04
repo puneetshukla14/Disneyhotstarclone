@@ -11,8 +11,8 @@ let movies = [
     image: "assets/img/Mirzapur.jpg",
   },
   {
-    name: "raya and the last dragon",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
+    name: "Loki Season-3",
+    des: "Marvel Studios’ “Loki” features the God of Mischief as he steps out of his brother’s shadow in a new Disney+ series that takes place after the events of “Avengers: Endgame.” Tom Hiddleston returns as the title character, joined by Owen Wilson, Gugu Mbatha-Raw, Sophia Di Martino.",
     image: "assets/img/lokspos.jpg",
   },
   {
