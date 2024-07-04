@@ -18,7 +18,7 @@ let movies = [
   {
     name: "12th Fail",
     des: "Loki is an American television series created by Michael Waldron for the streaming service Disney+, based on Marvel Comics featuring the character of the same name. It is the third television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios",
-    image: "assets/img/slider 1.png",
+    image: "assets/img/Mirzapur.jpg",
   },
   {
     name: "luca",
