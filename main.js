@@ -52,9 +52,8 @@ setInterval(() => {
 }, 3000);
 
 
-// video cards
-
-const videoCards = document.querySelectorAll('.video-card');
+// Video cards
+const videoCards = [...document.querySelectorAll(".video-card")];
 
 videoCards.forEach(item => {
     item.addEventListener('mouseover', () => {
