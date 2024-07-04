@@ -8,7 +8,7 @@ let movies = [
   },
   {
     name: "Panchayat Season-3",
-    des: "A disheartened Abhishek has left Phulera because of his transfer. Pradhan Brij and Vikas consider his transfer unfair and are determined not to let the new secretary join.Although Prahlad is still mourning his son and has taken to drinking to cope with his loss, he too joins Brij and Vikas’ efforts by threatening the new secretary.",
+    des: " Amazon Prime Video's 'Panchayat' Season 3 continues the story of Phulera with new twists, comic relief, and rural politics, featuring a beloved cast reprising their roles. Amazon Prime Video's comedy-drama 'Panchayat' has finally relieved fans' excitement with its third installment.",
     image: "assets/img/panchayat.jpg",
   },
   {
