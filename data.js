@@ -13,7 +13,7 @@ let movies = [
   {
     name: "raya and the last dragon",
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
-    image: "assets/img/loki-poster-serie-da-marvel-disney-com-tom-hiddleston.webp",
+    image: "assets/img/lokspos.jpg",
   },
   {
     name: "12th Fail",
