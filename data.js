@@ -1,10 +1,6 @@
 
 let movies = [
-  {
-    name: "wanda vision",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
-    image: "assets/img/Mirzapur.jpg",
-  },
+  
   {
     name: "Mirzapur Season 3",
     des: "Mizapur 3 continues the saga of power struggles in Mirzapur, with Guddu navigating newfound authority while facing persistent threats. The series promises intense drama, intricate character arcs, and deep-seated vendettas as it explores the consequences of past actions.",
@@ -26,9 +22,5 @@ let movies = [
     image: "assets/img/lokspos.jpg",
   },
   
-  {
-    name: "luca",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
-    image: "assets/img/slider 5.png",
-  },
+
 ];
