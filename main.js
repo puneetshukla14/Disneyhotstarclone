@@ -6,7 +6,7 @@ let slideIndex = 0;
 
 const createSlide = () => {
   if (slideIndex >= movies.length) {
-    slideIndex = 0;
+    slideIndex = 1500;
   }
 
   // Creating DOM element
