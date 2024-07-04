@@ -17,8 +17,8 @@ let movies = [
   },
   {
     name: "Kota Factory Season-3",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
-    image: "assets/img/slider 5.png",
+    des: "After one of Jeetu’s students takes her own life, Jeetu struggles to cope. He stops showing up to work and avoids everyone’s calls. Eventually, he pulls himself together when a friend’s call reminds him that he is responsible for several other students and for repaying his debts. ",
+    image: "assets/img/kota-factory-season-2-review-002.jpg",
   },
   {
     name: "Loki Season-3",
