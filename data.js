@@ -8,7 +8,7 @@ let movies = [
   {
     name: "falcon and the winter soldier",
     des: "Every fight begins with a failure! Braving against the odds, Manoj Kumar Sharma puts it all on the line to crack the nation’s much sought-after exam: UPSC.",
-    image: "assets/img/fail.jpeg",
+    image: "assets/img/Mirzapur.jpg",
   },
   {
     name: "raya and the last dragon",
