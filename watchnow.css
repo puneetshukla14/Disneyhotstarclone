@@ -1,12 +1,4 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P7VBRN72YR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-P7VBRN72YR');
-</script>
 @font-face { 
     font-family:soul-icons;
     src:url(https://www.hotstar.com/assets-x/web/assets-ui-lib/fonts/soul-icons.2a08e169ee14a45d8fd8.eot) format("embedded-opentype"),url(https://www.hotstar.com/assets-x/web/assets-ui-lib/fonts/soul-icons.aa0a69ee60bed240bb41.ttf) format("truetype"),url(https://www.hotstar.com/assets-x/web/assets-ui-lib/fonts/soul-icons.af8766a2c5681c689eff.woff) format("woff"),url(https://www.hotstar.com/assets-x/web/assets-ui-lib/fonts/soul-icons.6214649397b927e801e1.woff2) format("woff2");
